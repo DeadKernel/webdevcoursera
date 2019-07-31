@@ -26,7 +26,7 @@ h1{
     position: relative;
 
   }
-.cardtitle{
+  .cardtitle{
     top:0;
     right:5.5%;
   }
@@ -36,7 +36,7 @@ h1{
 
   }
   section.flashcard{
-      height: 240px;
+    height: 240px;
   }
 
 }
@@ -46,16 +46,16 @@ h1{
     width: 50%;
     float: left;
     margin-bottom: 20px;
-      position: relative;
+    position: relative;
   }
-.cardtitle{
+  .cardtitle{
     top:0;
     right:6.5%;
   }
   #fullcard{
-  clear:both;
-  width: 190%;
-  position: relative;
+    clear:both;
+    width: 190%;
+    position: relative;
   }
   #chicken{
     top:-1.5%;
@@ -67,7 +67,7 @@ h1{
 
   }
   section.flashcard{
-      height: 260px;
+    height: 260px;
   }
 
 
@@ -77,9 +77,9 @@ h1{
     width: 90%;
     float: left;
     margin-bottom: 20px;
-      position: relative;
+    position: relative;
   }
-.cardtitle{
+  .cardtitle{
     top:0;
     right:7.6%;
   }
@@ -89,7 +89,7 @@ h1{
 
   }
   section.flashcard{
-      height: 300px;
+    height: 300px;
   }
 }
 
@@ -98,9 +98,9 @@ h1{
     width: 90%;
     float: left;
     margin-bottom: 20px;
-      position: relative;
+    position: relative;
   }
-.cardtitle{
+  .cardtitle{
     top:0;
     right:6.6%;
   }
@@ -110,7 +110,7 @@ h1{
 
   }
   section.flashcard{
-      height: 300px;
+    height: 300px;
   }
 
 
